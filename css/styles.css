@@ -1,0 +1,17 @@
+.table
+{
+    display: none;
+}
+
+td {
+    color: black;
+}
+
+body {
+    padding-top: 10%;
+}
+
+#logoDiv {
+    margin-bottom: 20px;
+}
+

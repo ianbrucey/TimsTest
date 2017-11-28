@@ -85,7 +85,8 @@ $XML = $requestGroup;
  * if successful, the file will be stored in '/downloads'
  */
 
-const API_URL = "https://credit.meridianlink.com/inetapi/AU/get_credit_report.aspx";
+/** this URL is commented as to not lock the account for whom it belong */
+const API_URL = "https://credit.meridianlink.com/some/route";
 const WRITE_FILE_PATH = "../downloads/response.xml";
 $response = null;
 
